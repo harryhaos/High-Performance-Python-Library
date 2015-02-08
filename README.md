@@ -13,8 +13,8 @@ A collective list of awesome Python frameworks, libraries and software for High 
 
 ## JIT
 
-*[Numpile](https://github.com/sdiehl/numpile) - A tiny 1000 line LLVM-based numeric specializer for scientific Python code.
-*[cpmoptimize](https://github.com/borzunov/cpmoptimize) - Decorator for automatic algorithms optimization via fast matrix exponentiation
+* [Numpile](https://github.com/sdiehl/numpile) - A tiny 1000 line LLVM-based numeric specializer for scientific Python code.
+* [cpmoptimize](https://github.com/borzunov/cpmoptimize) - Decorator for automatic algorithms optimization via fast matrix exponentiation.
 
 
 
