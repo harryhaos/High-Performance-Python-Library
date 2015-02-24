@@ -6,6 +6,7 @@ A collective list of awesome Python frameworks, libraries and software for High 
 * [PyPy](http://pypy.org/) - An implementation of Python in Python. The interpreter uses black magic to make Python very fast without having to add in additional type information.
 * [Stackless Python](http://www.stackless.com/) - An enhanced version of the Python.
 * [Pyston](https://github.com/dropbox/pyston) - A Python implementation built using LLVM and modern JIT techniques with the goal of achieving good performance.
+* [Nuitka](https://github.com/kayhayen/Nuitka) - Nuitka is the Python compiler. It is a seamless replacement or extension to the Python interpreter and compiles every construct that CPython 2.6, 2.7, 3.2, 3.3, and 3.4 have. It then executed uncompiled code, and compiled code together in an extremely compatible manner.
 
 ## Library
 
