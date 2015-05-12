@@ -11,6 +11,7 @@ A collective list of awesome Python frameworks, libraries and software for High 
 ## Library
 
 * [Cython](http://cython.org/) - Optimizing Static Complier for Python. Uses type mixins to compile Python into C or C++ modules resulting in large performance gains.
+* [cytoolz](https://github.com/pytoolz/cytoolz/) - Cython implementation of Toolz: High performance functional utilities.
 
 ## JIT
 
